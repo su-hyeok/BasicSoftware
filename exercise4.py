@@ -14,7 +14,6 @@ t.down()
 t.circle(radius)
 radius = radius + 20
 
-
 t.up()
 t.goto(200,0)
 t.down()
